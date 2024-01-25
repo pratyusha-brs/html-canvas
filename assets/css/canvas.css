@@ -11,3 +11,14 @@
   h3{
     color: var(--primary-color);
   }
+  #colorSwatch {
+    display: flex;
+    margin-bottom: 10px;
+  }
+
+  .colorButton {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    cursor: pointer;
+  }
